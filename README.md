@@ -28,12 +28,18 @@ To find out more (the code with listed issues/how to fix it/why it matters/what 
 - run the extention on https://www.netguru.com/
 ## 4. Manual accessibility testing  
 Main Page: 
--  Page Title: Web page has a descriptive title
-- Site is keyboard accessible - wherever possible, content can be operated through a keyboard 
-- 11 out of 12 images contain no ALT attribute (when using the img element, specify a short text alternative with the alt attribute)
-- Unnecessary duplication occur -  adjacent links for same resource found:
-Line 7, column 17, a element, HREF = "javascript:void(0);"
-Line 10, column 17, a element, HREF = "javascript:void(0);"
-- no information conveyed by prerecorded audio-only and prerecorded video-only content available to all users
+1)  Page Title: Web page has a descriptive title
+2) Site is keyboard accessible - wherever possible, content can be operated through a keyboard 
+3) 11 out of 12 images contain no ALT attribute
+4) Unnecessary duplication occur -  adjacent links for same resource found:
+- Line 7, column 17
+```
+a element, HREF = "javascript:void(0);"
+```
+- Line 10, column 17, 
+```
+a element, HREF = "javascript:void(0);"
+```
+5) no information conveyed by prerecorded audio-only and prerecorded video-only content available to all users
 
 
