@@ -8,4 +8,22 @@
 
 ![Screenshot_1](https://user-images.githubusercontent.com/60215258/123257773-e4290600-d4f2-11eb-869d-a97ef518fe94.png)
 
+## 3. WAVE web accessibility evaluation tool (plugin)
+
+- 15 isses were found that are worth fixing in order to improve page accessibility 
+
+![image1](https://user-images.githubusercontent.com/60215258/123296997-704d2480-d517-11eb-9244-2b36bf15ced0.png)
+
+- Below  there are images showing the remaining deficiencies worth checking
+
+![image2](https://user-images.githubusercontent.com/60215258/123297162-9bd00f00-d517-11eb-828f-eac5f5c88e31.png)
+![image3](https://user-images.githubusercontent.com/60215258/123297536-f0738a00-d517-11eb-83db-ea7b7a584842.png)
+![image4](https://user-images.githubusercontent.com/60215258/123298630-fd44ad80-d518-11eb-85cc-31164663ce0c.png)
+---
+
+To find out more (the code with listed issues/how to fix it/why it matters/what it means/ the algorithms/ standards & guidelines): 
+- download the extension: Wave Evaluation Tool (for [Chrome](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) & Firefox) 
+- run the extention on https://www.netguru.com/
+## 4. Manual accessibility testing
+
 
